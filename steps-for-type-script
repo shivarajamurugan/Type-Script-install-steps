@@ -1,0 +1,4 @@
+// First install node 
+//check node version [node --version]
+//install node package [npm init -y]
+//install type-script [npm i -D typescript] or [npm install -D typescript]
